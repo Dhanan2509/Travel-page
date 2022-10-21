@@ -1,0 +1,200 @@
+
+.box1{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-gap: 5px;
+    position: relative;
+}
+
+.box1 .header1 {
+    position: absolute;
+    bottom: 270px;
+    left: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+.box1  .par1{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.south img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+    
+}
+
+.box1 .header2{
+    position: absolute;
+    bottom: 270px;
+    left: 725px;
+    color: white;
+    font-size: 50px;
+}
+
+.box1 .par2{
+    position: absolute;
+    bottom: 10px;
+    left: 725px;
+    color: white;
+    font-size: 20px;
+}
+
+.rajasthan img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+
+.box2{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-gap: 5px;
+    position: center;
+}
+
+.box2 .header3{
+    position: absolute;
+    bottom: 145px;
+    left: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+.box2 .par3{
+    position: absolute;
+    top: 50rem;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.durgapuja img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+
+.box2 .header4{
+    position: absolute;
+    bottom: 145px;
+    left: 725px;
+    color: white;
+    font-size: 50px;
+}
+
+.box2 .par4{
+    position: absolute;
+    top: 50rem;
+    left: 725px;
+    color: white;
+    font-size: 20px;
+}
+.gateway img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+
+.box3{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-gap: 5px;
+    position: center;
+}
+
+.box3 .header5{
+    position: absolute;
+    top:60rem;
+    left: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+.box3 .par5{
+    position: absolute;
+    top: 79rem;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.goldentemple img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+.box3 .header6{
+    position: absolute;
+    top:60rem;
+    left: 725px;
+    color: white;
+    font-size: 50px;
+}
+
+.box3 .par6{
+    position: absolute;
+    top:79rem;
+    left: 725px;
+    color: white;
+    font-size: 20px;
+}
+
+.hawamahal img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+
+.box4{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-gap: 5px;
+    position: center;
+}
+.box4 .header7{
+    position: absolute;
+    top:89rem;
+    left: 20px;
+    color: white;
+    font-size: 50px;
+}
+
+.box4 .par7{
+    position: absolute;
+    top:108rem;
+    left: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.mahakal img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
+.box4 .header8{
+    position: absolute;
+    top:89rem;
+    left: 725px;
+    color: white;
+    font-size: 50px;
+}
+
+.box4 .par8{
+    position: absolute;
+    top:108rem;
+    left: 725px;
+    color: white;
+    font-size: 20px;
+}
+.kashmir img{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
